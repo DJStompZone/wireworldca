@@ -2,17 +2,10 @@
 
 ## Quickstart
 
-Clone the project
-
-```sh
-git clone https://github.com/djstompzone/wireworldca
-cd wireworldca
-```
-
 Install with pip
 
 ```sh
-pip install .
+pip install https://github.com/DJStompZone/wireworldca/releases/download/v0.1.1/wireworldca-0.1.1-py3-none-any.whl
 ```
 
 Run the module script
