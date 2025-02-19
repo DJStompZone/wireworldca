@@ -1,0 +1,8 @@
+dist/
+build/
+__pycache__/
+poetry_cache/
+*.py[cdio]
+*.png
+*.gif
+*_experiment*/
